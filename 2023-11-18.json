@@ -1,0 +1,26 @@
+{
+  "name": "Grace Martin",
+  "age": 43,
+  "address": {
+    "street": "Nion Boulevard",
+    "city": "Dipseso",
+    "state": "IA",
+    "zip": "67132"
+  },
+  "contact": {
+    "phone": "(788) 593-3037",
+    "servicePhone": "800757292"
+  },
+  "birthday": "2006-01-27T15:20:21.617Z",
+  "ip": "39.37.202.86",
+  "foo": "bar",
+  "profile": {
+    "about": "Kudvoel gutcir hewilubuv maw moc bavezani afolopiz tadgeb rit jelire ki ko owu terbefefe. Ih fazosa odtafto id epigu aduahjoc jeigoif jono mu topam la oklocig agpu widco weh tarubun. Koowo urumeri gabita kisor lugespej sit jifziw dolnugha aku ho foic zopel teksic rekafo eceatvu goghahnu du ni.",
+    "bio": "Sunaul owiabotaz zo olobowgu bitnab eliniwlim pidebev gelesinub ogikakof po jutit ros afce pi wo. Dof el paas kiviv rojisos com fuujekad sas mupuhevi hizu zadime tum su nefde cincuuv. Ezevihu himkari ilkukvez mubcengo ulatefmut hotacirab lowel wiftin ib ig zaalu hieko viihfop akeru."
+  },
+  "apiKey": "9a2e91865a86fe74660a3f0a46723a8be580b3877dd14ac8429a2a2c397f3a14",
+  "currency": {
+    "code": "DJF",
+    "name": "Djibouti Franc"
+  }
+}
