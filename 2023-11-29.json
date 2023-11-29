@@ -1,0 +1,26 @@
+{
+  "name": "Troy Osborne",
+  "age": 34,
+  "address": {
+    "street": "Wera Circle",
+    "city": "Mopuob",
+    "state": "IN",
+    "zip": "64129"
+  },
+  "contact": {
+    "phone": "(264) 631-7885",
+    "servicePhone": "800642229"
+  },
+  "birthday": "1995-11-13T15:39:22.880Z",
+  "ip": "174.54.102.241",
+  "foo": "bar",
+  "profile": {
+    "about": "Ug gi di et firov ijfeabu soedu som zut zedne nove azetufrom san owadogfe honza feta irefes. Sac sa juwiob dit wi oklatbab zojcehsim juj notamfa ren lon nunjomsu mef wuprenop ec ofupuci. Nebvun mo otuicbi oratip luhebu zutlabpof debodpi kaikkuv gojuwi mivazi fe lu jazpibef.",
+    "bio": "Eta okuku uho kafepho tet perarli ifoheriv runug pola jiz rem ce esoca vorzoel kankikmew ul. Vikdo das nowo giw mos nuirifu hopu siwohiz wurcus we cuhibwig gauvan douk beisake operuv as. Vafsidi peowu ozimej uso toajiko limdeg tab gop mekwukus muudi wumadaz cowag opeiftu ovu ji. Rimiriwa genpohe ciccep ehule fi lileje wi povciw tutma wediga sevu otibci vu kab nal zouc. Ve mu folgi rip vifderu ozibok duno sivmekpi dewtev kudoj zacok lar. Wotup pu noka zisucho fo ke lon wo me mu ehiliod lot. Ocwuczok zaitoun fol ok relu mo ja faocefa ku dadberoc elpuwbic ahoiso zinig fuberova."
+  },
+  "apiKey": "a69a0318309c76b05b81ea7807cec378fbda43c6ffa779a47d0ea1e862edeb90",
+  "currency": {
+    "code": "HKD",
+    "name": "Hong Kong Dollar"
+  }
+}
