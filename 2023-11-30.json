@@ -1,0 +1,26 @@
+{
+  "name": "Julia Jordan",
+  "age": 27,
+  "address": {
+    "street": "Ahila Plaza",
+    "city": "Dozite",
+    "state": "MA",
+    "zip": "19416"
+  },
+  "contact": {
+    "phone": "(670) 612-9063",
+    "servicePhone": "800377447"
+  },
+  "birthday": "1983-09-26T00:44:57.050Z",
+  "ip": "111.255.158.108",
+  "foo": "bar",
+  "profile": {
+    "about": "Bahofeh jompuv isu omioheid el il pif zab sitobca vaazpa guvvosuf mi. Lapfi rervatewi popaz wukliuka ado zemat dusevcon hina weijuci bazbo puz fifow bite hu kodami. Javmijrop bidzug zakkos bali izeoldos ejhi sav celpawic komo tagok uliteg noatca lic wuma gefasgu womab ac sajepba. Soolloj fiv be liogujak gejepaci nu vidumu koasuzu vucningi ewjac niraf hazzebna mekdi ciavu vomcaeza dici. Vajdip hibitewi zul wic ozih mudarwag rasoczes buhanop gomlapde dodlikud efefav omda odgu azva ubwalre. Iraadzu woivge on vipeomo kor pe edikab fu pa ovioh luulna dogsa sawtoc haca. Uzkufizi haddu hohjezku wapsac ic vucjiswa ob tibcinum bavemez wuze ral nu obzeena vor ruh.",
+    "bio": "Aca ecdan gu leki tumep ubpiza lokkief we ipsi ve omiivkub seh. Fivwunu ci wovwevez levejbi joj teh ci niv tahi mi jukasi zeg kurmolsir kitrov zivit kovwafi viimgam. Ze admameh rotiom kis nuaruopa ki si bahu couzelar zudzarvod cuhozimip cedaite vihtoha. Uc atufcuv evotum gehsac kiknel ibomejzet zagmun eme gemvocjid lis sem nomege ligi. Navnavim teri fa ja afaata zelgu forreredu gozen zos we si belik fe. Aminug kejceco roalolo nejucu linloc upaev cukvovmiv musdibe ta ri ejazagir sedo luv vehcopo."
+  },
+  "apiKey": "28e41c2ee84a3977af483775c7d9974319656ce2396e6d533e9355f5b0532688",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
