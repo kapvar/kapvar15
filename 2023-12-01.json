@@ -1,0 +1,26 @@
+{
+  "name": "Mabel Arnold",
+  "age": 42,
+  "address": {
+    "street": "Hoba Manor",
+    "city": "Vosusled",
+    "state": "KY",
+    "zip": "75407"
+  },
+  "contact": {
+    "phone": "(501) 690-5894",
+    "servicePhone": "800855557"
+  },
+  "birthday": "1970-03-18T05:34:49.729Z",
+  "ip": "114.146.71.35",
+  "foo": "bar",
+  "profile": {
+    "about": "Erham den amicugaz vaveso bozsa jad oc kev fonedu te ladovza hoj. Lenap li terovigo ka moscop zumja vahoswun tupmil fosfab fi wu gir akija hege jica hosingab giudu. Vukatoc ci ca jibcu liles roaze fopitewit bencu pohfegwuk awsobag erovajce verco ja.",
+    "bio": "Zenwu ve torhurji so kebi tiv hirwi tuuzwib bu nupfet asipujiz go ze filabge sil johcil ute. Newnuhput afkal vaf lu buraz het ute jempe kazcuz bosgu vidlom iheemadif eg gisla. Epi apaofo jok afi tuhohdoh ukucev bibtof iv jamet vi tov ofvo."
+  },
+  "apiKey": "c08aa6aa4fece75130d0fbb5f0f5f65f8ed42806b56ea99bd70f2e82a9fb5ff7",
+  "currency": {
+    "code": "MNT",
+    "name": "Mongolia Tughrik"
+  }
+}
