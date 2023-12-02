@@ -1,0 +1,26 @@
+{
+  "name": "Minerva Garza",
+  "age": 22,
+  "address": {
+    "street": "Noknop Plaza",
+    "city": "Erucial",
+    "state": "DC",
+    "zip": "97282"
+  },
+  "contact": {
+    "phone": "(888) 913-9638",
+    "servicePhone": "800282474"
+  },
+  "birthday": "1985-01-13T11:32:44.091Z",
+  "ip": "155.7.97.109",
+  "foo": "bar",
+  "profile": {
+    "about": "Hezbe ub onawacos zuwi tiecemim wul vowbir odu juz li ubru ko amofa ruufako rartipe. Ziwupgo cajrihni zim ke jovki ecba gaku pu tuzub cacid koctohak piz soinbat. Ebigefa daf upaulo hodumlog efi ni ithim husoj rajuczu wipahek nidir nilehoji zo kolovod rir. Datkaw vi pikut zofli desrad utusat cuwo ari gegetiv rek wucba vakfewzu at. Adu oggittun he we fedpafvi hilanuc larufez wum kogopi ic ba rerolbuc.",
+    "bio": "Cosubsi gublote kiowsi ba wugatho om fumig aracu kucokvi ofveguf reevmu wiodi te ca eci abjog ga jawa. Riv ek ulezo afiiwe erdazle riso sez mu ov tir igogaj pila ofocafuz laud jamote ejomi. Sejlipu huhkopuh binvaewi ge bawijog imi ij iso ib veneghu jujhuoku izaom."
+  },
+  "apiKey": "e3796df83d61b09979e2ce6c2ce9f62f5ed4b17e36d4532aa282f68545a4379d",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  }
+}
