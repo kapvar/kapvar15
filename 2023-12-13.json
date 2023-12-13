@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Day",
+  "age": 55,
+  "address": {
+    "street": "Gadca Point",
+    "city": "Labariw",
+    "state": "ND",
+    "zip": "97030"
+  },
+  "contact": {
+    "phone": "(664) 381-5839",
+    "servicePhone": "800637139"
+  },
+  "birthday": "1985-07-04T23:10:19.421Z",
+  "ip": "17.137.80.157",
+  "foo": "bar",
+  "profile": {
+    "about": "Vep li evuko rimjepep ijowag likagfu oliicfi nawa eriram bucuwcum tav tusowod worapkaj pimsi. Pone dadleh ija we odoehu ehfuji awko vonume suhrus ronhak fojoni zewdag temcec lohka zakkior icozivzo ipe. Redi sumiat cacir kagloveb isekindi zuftovti tom julip li gorihir afe vin ozunop. Pajocnik aji vaw ismeki so wotu luocosaj doprudo mojla evloriwo ba bacvir daje ovuud. Munca ac odu tom peasu tihap jengulve jirzud ga lu ij imisa. Jewmunhu ucirelup lirhi pe mu hit efbevmo gublepig rolpide gowhiman epwuhdar zokeb ne sifi.",
+    "bio": "Gikovi gad imigiwev ukipek razjucja esbod lowcobse ek gatkamu voznov ehe vepsucwil kor on nepof bafanug. Lofiz baso loscegco cu fi wab jukebun re naicsar micvob ezovva fihrisra mi lag majteb wifzidzu mimpafbaf. Otdumlow piwpufsi ifa dik uk oda di tu emoegi bobjap noitoku daceeto buhibise elepaz waeja isulo."
+  },
+  "apiKey": "4a9d122bf95fe6300f5a24fd579883e019983db9bf4b8888a793df29a74c4c18",
+  "currency": {
+    "code": "KMF",
+    "name": "Comoros Franc"
+  }
+}
