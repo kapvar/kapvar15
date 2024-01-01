@@ -1,0 +1,26 @@
+{
+  "name": "May Olson",
+  "age": 18,
+  "address": {
+    "street": "Lonce Street",
+    "city": "Sutkaadu",
+    "state": "AL",
+    "zip": "92633"
+  },
+  "contact": {
+    "phone": "(324) 762-8784",
+    "servicePhone": "800489117"
+  },
+  "birthday": "1995-12-21T08:40:48.273Z",
+  "ip": "91.86.90.224",
+  "foo": "bar",
+  "profile": {
+    "about": "Hadike fiw vutzo pekzutlut kenmozzah jeuroimo noezidaw zacmo ezu joj wa gu sow feswicgu. Teele lisawhar afkekuc zibouka nipse jazo du eppag uhafa aduipiji faifoji nedo. Ken pij dav edo pif ko afiipa iz melwon liap ujizuave ijevupar habat igdejci.",
+    "bio": "Gi wu ci soez tupmuddap jogriv jaca oci aza awu juvocar fostonah juh. Wifavraz lacvoz ge wap juc afihi urire dunfok hehalo fetbajun dafuf boresme. Gidoho dag ajiwoc ug mospoztup ha dijlakdad rururra wudupa kater tuji cijit fu mubapu rab ud. Nuz kazka wimeje zagedeh nab etvig fabilaji hujemoej pecpi bibneg cejduf kukupfi cokojuwo ez te."
+  },
+  "apiKey": "fca7fab9417ce36bf193f503f570b51d922460e3e7a12c231ffed5917e9f7474",
+  "currency": {
+    "code": "ANG",
+    "name": "Netherlands Antilles Guilder"
+  }
+}
