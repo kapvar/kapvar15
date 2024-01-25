@@ -1,0 +1,26 @@
+{
+  "name": "Gene Robbins",
+  "age": 29,
+  "address": {
+    "street": "Geru Drive",
+    "city": "Larnecaj",
+    "state": "TN",
+    "zip": "26326"
+  },
+  "contact": {
+    "phone": "(259) 541-7358",
+    "servicePhone": "800599571"
+  },
+  "birthday": "1981-09-21T18:05:45.416Z",
+  "ip": "76.36.102.108",
+  "foo": "bar",
+  "profile": {
+    "about": "Doog jiegka hirlandi kapzum atugaz tutvo te mi vit heotu ke uli. Eli ikero muves danpim nieco zij biow vup sib femruh mefpeguc cimno hofen. Nu vacholol fade egko sigum ha jeh epha nipot vupdapwek wukgi nuchuha fi amaha imo huk tim citos.",
+    "bio": "Liwdab ofopummen de agi walefup ronube duktow repi dutcen sotawi dukokewi junira. Inurep ot fawmirji wijretok mewdizci pa buk to lev ila fushigot wijpur felmabi ikeb. Rioriwa ughano recju cojrefud fevpa ehofiveg foh kafpof zepnutbul zeari anukikpe obwo ezigipel. Aci om oku kepsatum sootot sada lug wib nu fa vi funo."
+  },
+  "apiKey": "624f9eb812c535f00eebe1458a8a10e3333f810acbbd896214b3061f64a7021a",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
