@@ -1,0 +1,26 @@
+{
+  "name": "Lewis Tate",
+  "age": 18,
+  "address": {
+    "street": "Badef Way",
+    "city": "Hatmadef",
+    "state": "PA",
+    "zip": "48070"
+  },
+  "contact": {
+    "phone": "(757) 776-6670",
+    "servicePhone": "800457546"
+  },
+  "birthday": "1983-05-15T21:00:40.256Z",
+  "ip": "130.199.93.221",
+  "foo": "bar",
+  "profile": {
+    "about": "Jaw iro duhabi jacijwi fikrorwif wakajoho bu ma micko nijij iceta dorrughu naviv java lusep un la. Gascig ro tozkauc ni mudbefude nusuz su pubfajof cunduef iljisade jivafcu guzhadrup. Tommor otodiv tozizon og fute al vuzuvow umpamafe wo osuva acaebpad al.",
+    "bio": "Og mucaewi johre cozif su uf ubuw jewhuled pog bo lurowefe cefag tul. Ven kecje ho nektek jojogah cufled kicalo vog bat camo piralpod atokite zihor jekihloz fekzuh ruupu. Bewejfe vigot kasli ajuuho gobo be winhocwic nat onfefe suv uwfez pucur hutiar. Ezemo zegja ekaovmif tacafohag iju ponac dan lunenin ipnadho vaw ugupewo maawevuv keak bagefgo wiz celcama awokor. Kep rotev kejelcoj rehe me ra fekwa didci ec tegoluvew pi jenuh apuvavcor buehepec upego zekivi erwiasa dolo. Naaduasa eta hi ov fojulo gucti lifrorbap gu uniwisag vecibdal awbu re fi porukgoc hagsuce."
+  },
+  "apiKey": "732ca87ba15233184a5a23a58f5a413f2481011d6154ddb4f76937d7de571514",
+  "currency": {
+    "code": "KMF",
+    "name": "Comoros Franc"
+  }
+}
