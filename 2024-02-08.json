@@ -1,0 +1,26 @@
+{
+  "name": "Allen Santiago",
+  "age": 26,
+  "address": {
+    "street": "Feoc Plaza",
+    "city": "Dojkuji",
+    "state": "VT",
+    "zip": "57827"
+  },
+  "contact": {
+    "phone": "(751) 589-1819",
+    "servicePhone": "800921359"
+  },
+  "birthday": "1994-10-17T11:38:51.638Z",
+  "ip": "223.255.3.85",
+  "foo": "bar",
+  "profile": {
+    "about": "Rorpan zupow le cah hipuwgi aheva ovru hunuv ir wivco zokok ena cet ba kiel tuf. Bukuh wevheg dov uhsake isupu iv hu latkuvtuw giw kedip fa zag retri vaw. Losnu umapah asfiud teruviz ko ow gonbof vihomob mena jowzom simijoro jikozav wu. Wulifkuw ikvakjo jug edsaw recocem gebos lopohtug af bo eru te dazmi soc heav ol kuhulju dopdi efetunwe.",
+    "bio": "Ezeewefe gigkepe jokol jewzah jovik nuiti pi je vocewu gekdek eh alu ral vipi ita zo. Lul ginivbej rine de gu suthoic use ba uronozo lomjut ceowa nalas ajrurabe like. Gusu fop wokiwuj ciredmef vodad evdag goba kod dul le icfuvur la de mebahav pe duwbauri essoef avga."
+  },
+  "apiKey": "3cd96a61108a604e6b01f4dada9d167bf93ba9a5e6cbdb685f2ee3541c261bf3",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}
