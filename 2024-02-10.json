@@ -1,0 +1,26 @@
+{
+  "name": "Jim Carson",
+  "age": 45,
+  "address": {
+    "street": "Sejoj Court",
+    "city": "Togboven",
+    "state": "OH",
+    "zip": "17938"
+  },
+  "contact": {
+    "phone": "(768) 290-9113",
+    "servicePhone": "800333682"
+  },
+  "birthday": "1994-10-10T07:57:27.320Z",
+  "ip": "123.142.208.253",
+  "foo": "bar",
+  "profile": {
+    "about": "Livo uszu ir tanicu zasiz sadsinju pacga otabo viuge abrap eno toc teusoup. Beowo uvti binewo tur ope wopa pamzar hosuj lofwuctoz sanhewat caoteto he fagov gufnej isadam tij. Vijso babokre co cikeshiv udoga jejtiaj meznip zoc pazji zug ucaiv tivnici pu ne le nac ze. Baavvat esi sevcejpam jepcit budgekkah zuhuw jezodu nijjow habu dunac baz unfeh evgisba udoweeh ralakgi us. Zoklugak gubca lu elma gapu be bobefhut wavhulut piw paz lebbo haha ka baejaune aji ju dababo. Lihtoit to sodehele dujuvli izruka kacanva neuvi gikfude ca tat bob cug ikbat lu peksazvig ciula onocowumu wugi.",
+    "bio": "Cielece hoevwi jarmucoz hijar daeb aka fuhev on suckejo ca wuv owofus. Mavfi erages akuzo hawe kohwefigu vi houc cof dut vus od kizike ijmubju naki ra ku cokha. Umici utbawuw ji pi tuvek me bifofemuf zolub dut la imuja bonfun zan zala. Uncuzwar gi vuel wusogagu ci mokujoh omo vuj wudcewne gope ifzaew jah ku."
+  },
+  "apiKey": "012aa462d1da4a8eeb93e415098df58d87353f2320d14f39bb6cfa272e3f1c81",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
