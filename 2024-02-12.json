@@ -1,0 +1,26 @@
+{
+  "name": "Brian Larson",
+  "age": 50,
+  "address": {
+    "street": "Uvuwe Heights",
+    "city": "Pewuci",
+    "state": "NV",
+    "zip": "81061"
+  },
+  "contact": {
+    "phone": "(226) 913-2000",
+    "servicePhone": "800983517"
+  },
+  "birthday": "1984-05-23T17:23:54.924Z",
+  "ip": "186.95.197.39",
+  "foo": "bar",
+  "profile": {
+    "about": "Puvi gin sutdabij sak onma vujumuho nag jikicih pijin egi memza nivobi nad ja ruvaboz osko jitzigo. Zibigiw buezo kishu nugogu igeganug emibris gerivo zedozuna jo rokwohul ijtu pil lo povimzo wadicu. Kuj orunuwu wanon osibodafe or ikepahi egebeuku zeklakir nufzafiv uliub acaru pincano. Pavekcu opsovta cu wuw zazvoge fawnopcoc ininadta sadciipi ni ke ofkoki vugagidol. Duzbor jipi ziknug nad icmaf boari sal dosgurav met ot cuniup betanak cef saki. Pob so cezon zibto an sudfegez cupu zujvufa tucgubas retrilon tozduwdof osge uvu lupebu kok hunet.",
+    "bio": "Golulhaj kapoh gu buufirac fis luc esvulhu fuem cu wocwaj taazo tuze weus ne refor sih re su. Ramiwro ce leza bikak ditbe faaz hajo efkisbek povozif gevu riuma azu wuejebaf jadat zajecvor. Gulirjuv mo seagga eseza zife vez wacok nirfowvot ejitewgu mebekoh ocnon vanel fowtopmu suwno capikbop jizmipta boficdom."
+  },
+  "apiKey": "9c9c366ffe32f2c70f01a8e15f3f05c6cde5355d26ff3b34ee5fd00e634e040d",
+  "currency": {
+    "code": "PLN",
+    "name": "Poland Zloty"
+  }
+}
