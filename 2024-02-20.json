@@ -1,0 +1,26 @@
+{
+  "name": "Ryan Copeland",
+  "age": 47,
+  "address": {
+    "street": "Ivovu Key",
+    "city": "Dujodawig",
+    "state": "VT",
+    "zip": "81459"
+  },
+  "contact": {
+    "phone": "(766) 970-3414",
+    "servicePhone": "800189729"
+  },
+  "birthday": "1978-12-05T15:41:38.206Z",
+  "ip": "221.148.197.196",
+  "foo": "bar",
+  "profile": {
+    "about": "Ma lupahwu ibvufik nulo imbovut ij lobufmu og po owfobcif vajaf gi gakehgis pimwuva. Tiabtak mubeavo soifva kopit gep ilaefu kaogu cuhof jabir nem mohu nup rassavo. Tut lotias wam tafa uwdu cumda gihujo bi osruhud mer kan mu wed vahin. Zifpon fojba kuni favwiuti onko asoabe wuz zuw gemiowe soenuwu gup avo je ehvufnu tat de.",
+    "bio": "Ovubap ju wobsewbe vow ehwuw zuufido igi cewufan harif ope kumof rus ris dureeha ma ibuwar higajekep. Mummej tanonoh ewafag so varircas bop ek fesiz ver ij mub cemun wob. Raherva utiif okgeb agvo kebwego eloetohi mut rejlidrek nuimuosu ugasi duhip god ar zi haz madna."
+  },
+  "apiKey": "f63d4e64a55b55c9ebb52752d8a1d60485407c17da70028f2f1420c7ae5093b9",
+  "currency": {
+    "code": "GEL",
+    "name": "Georgia Lari"
+  }
+}
