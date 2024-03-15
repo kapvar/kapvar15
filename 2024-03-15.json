@@ -1,0 +1,26 @@
+{
+  "name": "Alexander Smith",
+  "age": 28,
+  "address": {
+    "street": "Ezipe Place",
+    "city": "Ibuzsob",
+    "state": "AK",
+    "zip": "70074"
+  },
+  "contact": {
+    "phone": "(868) 574-8291",
+    "servicePhone": "800832579"
+  },
+  "birthday": "1977-10-01T23:54:06.936Z",
+  "ip": "148.53.231.251",
+  "foo": "bar",
+  "profile": {
+    "about": "Ce ifjo inkovva hudicbe pi ud pa gomje po wapzar paik jehapo tafot leb oscoad. Ziimo reoc eju gizze nagwefzi tibuhup gabu wibozjal tah gijpacri kain mu ah viho wokzen vurjuz. Ber imu efizarik pal zasawaruh ikpup takvub noko zurbatu vim ko fanbuwin jeswabgi akna. Nuf moovva mujuwo esodvi sifub uh dobugtup tirhunciw wegroga paj tew govukkoc ale. Bidanaw wagu mu ozewapwu itciisi rajalen favjof lopun feave milha cot diigu sofikiva bofal fa unecisfod hapsif cumaale. Vi ev pa bimag ja gojhiz ohe od dip rod ke sonuto dij. Gili gogfuri etocuse kalwo owilaih kiusij leucibe gareguv jap eza eweucjov cuwavob ku kofu.",
+    "bio": "Huitmu zekug uwesal wucarew duwpa fa bosjeske vuju zo toslut zimi raiso eku nasah. Wukvuz rul oviwi hi enhi kegu mam bacosti kabved kecwag kos kudojo di vemzier nejrif su esuv. Wafoz zo kuedupo cohvizfa gonitag geh nut cocnem vume tagi olizef kihin us ohlarlu ig ora."
+  },
+  "apiKey": "665089da733a92bbae82fe896a259576cc67d8e403b7aba06acbce6a32020569",
+  "currency": {
+    "code": "PYG",
+    "name": "Paraguay Guarani"
+  }
+}
