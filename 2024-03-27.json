@@ -1,0 +1,26 @@
+{
+  "name": "Marcus Lambert",
+  "age": 36,
+  "address": {
+    "street": "Hemij Circle",
+    "city": "Vordamo",
+    "state": "SC",
+    "zip": "35417"
+  },
+  "contact": {
+    "phone": "(961) 649-1617",
+    "servicePhone": "800926584"
+  },
+  "birthday": "1983-10-15T12:41:51.558Z",
+  "ip": "199.83.24.229",
+  "foo": "bar",
+  "profile": {
+    "about": "Uliffug wezolos pof leego fusju odu alodan pupfal giwbebul soje caupfo faduzajo ceave aba mo bib gelefbu. Vi wev fi motaslek ufe zummizaf vavewebu ic dukelape zum ham nir iva ra. Epubutgah su bipolu zusvo hufe bew vogizmuz ijigo pa eva tu wavartac alzopwus.",
+    "bio": "Izeogoheh ewi zahtihna zo kufareov du net tof nakpebupa aco usuhtom bodin ta puwge ij boca suhveili. Ke ezvineg karzal ges so roara kajhagco ca cajigaji watevogu jid olwi iwo iju rik osuhaj zaligsa. Nil ni ebuwu nihin dodmuzzis lafir bug epeduka iddot boujofi ticgomwow si mobogrek. Hecpilme bovhuse tafujoh ko ko kotac sim dumpo amduh tahhusa hipat pod. Zedivi cozco azahu ha episahoso bu alu vumas ziude deciftum kulwu motoha virene wi dud zeup vunoki gi. Fukpodwo ju ginsabmal vek kav edo suopefe mi irco ot gifjac taflihof. Iwu nalno edetari bikohic tibafse an kecdijada ru ap wakcasib ij miv nibfak ifu jihze."
+  },
+  "apiKey": "e80213dce46236ead363d839d0f6d2ca809a82c72e20dda319f6c2b03cb15e0f",
+  "currency": {
+    "code": "IDR",
+    "name": "Indonesia Rupiah"
+  }
+}
