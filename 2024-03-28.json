@@ -1,0 +1,26 @@
+{
+  "name": "Kevin Castro",
+  "age": 22,
+  "address": {
+    "street": "Ozal Court",
+    "city": "Noignit",
+    "state": "SD",
+    "zip": "70968"
+  },
+  "contact": {
+    "phone": "(670) 916-3432",
+    "servicePhone": "800752482"
+  },
+  "birthday": "1964-07-10T05:14:20.300Z",
+  "ip": "243.16.116.64",
+  "foo": "bar",
+  "profile": {
+    "about": "Dasgak zo noabuito zuz jek juirhi sambi nuhi epwahpud uckik it epuko dirwol. Uresazde cumewho mumek koavo nejke joog wimo tah ubeabri gi ija soluk tol gazok uzaelooce lumsoaj macozuj dezowuve. Tom kidtik piomoco zo digiv lak go zojmif pe tibhe weowamaz ru galueho womovaveh dosda.",
+    "bio": "Fasis uzmeb ra wun wofhisaf powoc vi geh jigu rusja dip lesfi redol izoku cecih docosun ezutidto ijeunuih. Satva utu vuhobcaw anor wophiwwoc gigu ru sihobil laku ucowo sef kogi nufci ril afiemu evusadu. Asloti dohib dekguv zuena ca uhlar zuk zeziti vanhes ike of dejazuf. Po lah buz gonji jif navem vulis vonamu is kuejhu opo iwca ifemeup leh berazo kam."
+  },
+  "apiKey": "23d03dd251472ea87db478bd7734bcad6e59baa167c1dae600fbd92b925a445b",
+  "currency": {
+    "code": "SBD",
+    "name": "Solomon Islands Dollar"
+  }
+}
