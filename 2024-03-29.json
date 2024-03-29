@@ -1,0 +1,26 @@
+{
+  "name": "Jean Holmes",
+  "age": 49,
+  "address": {
+    "street": "Kero Point",
+    "city": "Ezmaci",
+    "state": "PA",
+    "zip": "60082"
+  },
+  "contact": {
+    "phone": "(765) 751-6428",
+    "servicePhone": "800129532"
+  },
+  "birthday": "1986-08-11T17:42:59.296Z",
+  "ip": "102.73.40.182",
+  "foo": "bar",
+  "profile": {
+    "about": "Vuzug wa kukoh ale ekku ca odibuc biufe owi gih noh higvarru. Cag suzuhuv peogarad ne lomu debohi ov koifo ebujil naiw ji fujisju opeogu li. Kejhu hitac kapuwo kezvo faji but mi itdoj nowasti vah hipuga johiktaf. Hiwuzva jacbiso gah jo pohmuhi huvaci fab kiufebep du andekde zobos inrec igaca zewha huworhof zi diwbu fonliwaf. Nefi wuvusa eboepwoh zodemap na ni vig metla ilocaf ivimeg ehuudigu jem. Talifdo wovbatnup rihhoap ke fazvuh wut ehe ban coti hu madsowe lir buf pucvutej nul za. Idate faki gef ehroffo dot ulaoca utpelkem ucu fudon ubimeow tid na dacuvwuz cet.",
+    "bio": "Vissekuf az wacrevuk abvo ijutuwvu kewan halgu tukib da go silkut apofiogu. Gibaol jemlu acziwan dosuwzul vijbe tu hi ame semko paof uglunus iv suwza ahfil. Pacji wo piz paalec da kurci aspudpir muheko fubas gonajci cal tunazvat difrun ulu holsas owa."
+  },
+  "apiKey": "fbb46156b7a6a2ffa23691eee2787110fefc5a2501f5b92e30852d05e9e1e948",
+  "currency": {
+    "code": "LAK",
+    "name": "Laos Kip"
+  }
+}
