@@ -1,0 +1,26 @@
+{
+  "name": "Jeffery Malone",
+  "age": 55,
+  "address": {
+    "street": "Tamoca Highway",
+    "city": "Sijicup",
+    "state": "NH",
+    "zip": "97983"
+  },
+  "contact": {
+    "phone": "(672) 370-5019",
+    "servicePhone": "800654547"
+  },
+  "birthday": "1976-06-21T15:51:21.480Z",
+  "ip": "246.168.19.57",
+  "foo": "bar",
+  "profile": {
+    "about": "Lidga gekuohu wedvik ge ter doljaru ad tuici cempeh zilju acaad howu wacas peh rasa bipwa. Jo nu jolwu roaracu ribopavo dakfok waw awahofi wawavi egden sujkih oluzateb efsikri lupet ap vijfumefi. Tekoz pun sekiwu dacwiuc pedwuflu nu wuddo enreuse errorve wej modokuben bac fi uhu de vokuof tifkifa.",
+    "bio": "Jubuc seg ob hel azi dit ha ol hangaok sozikce ec uf udonel wubbih pauzosul wuupuov pegcin tiwup. Wo hipcuvmat ifi webpopmif ozo vuncoala gu astezus ikegirag guz ne uhupus kasar kusum. Wid pirfobga ifzigep paag inliw se mubatov aju sowtihe tez dilhu eja pik upovijav tef wepmip cehu."
+  },
+  "apiKey": "ba5b30f834658add7122dd581e07ea14d064f0b9746cb581b2e1964c60c23245",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}
